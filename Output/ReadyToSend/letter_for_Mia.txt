@@ -1,0 +1,28 @@
+Dear Mia,
+
+I am excited to apply for the full stack web developer position available at your company. 
+As a recent graduate of Rutgers Coding Bootcamp with an MBA in Professional Accounting 
+and over 25 years of experience in finance, I am confident that my diverse background and
+strong work ethic make me an ideal candidate for this role.
+
+Throughout my career in finance and accounting, I have gained a deep understanding of 
+business operations, financial modeling, and data analysis. I have also developed valuable 
+project management and leadership skills, as well as the ability to collaborate effectively 
+with cross-functional teams.
+
+As a full stack web developer, I have experience with HTML, CSS, JavaScript, React.js, 
+Node.js, and SQL, and I am committed to staying up-to-date on the latest web development 
+trends and tools. During my time at Rutgers Coding Bootcamp, I have developed expertise in 
+full stack development, software engineering principles, and agile methodologies, and I am 
+eager to apply these skills to build innovative and user-friendly web applications.
+
+My passion for coding and learning has driven me to pursue a new career in web development, 
+and I am excited to bring my diverse skill set and creativity to your team. I am confident 
+that my experience in finance and accounting, combined with my technical skills and 
+dedication to learning, make me a valuable asset to any organization.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my 
+qualifications in further detail and learn more about this exciting opportunity.
+
+Sincerely,
+Bill Stephens
